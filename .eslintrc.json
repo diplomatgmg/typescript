@@ -17,5 +17,8 @@
     "@typescript-eslint"
   ],
   "rules": {
-  }
+  },
+  "ignorePatterns": [
+    "**/*.js"
+  ]
 }
