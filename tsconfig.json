@@ -1,1 +1,1 @@
-{  "compilerOptions": {    "module": "commonjs",    "target": "es5",    "sourceMap": true  },  "exclude": [    "node_modules"  ],  "rootDir": "./src",  "outDir": "./dist"}
+{  "compilerOptions": {    "module": "commonjs",    "target": "es5",    "sourceMap": true,    "sourceRoot": "./src",    "outDir": "./dist"  },  "include": [    "./src/**/*"  ],  "exclude": [    "node_modules"  ]}
