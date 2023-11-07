@@ -4,7 +4,7 @@
   "description": "",
   "main": "./dist/script.js",
   "scripts": {
-    "run": "clear & tsc & node ./dist/script.js"
+    "run": "clear & tsc && node ./dist/script.js"
   },
   "keywords": [],
   "author": "",
